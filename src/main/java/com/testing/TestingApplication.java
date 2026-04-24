@@ -15,6 +15,7 @@ public class TestingApplication {
 		float m=10.3f;
 		int a=2;
 		boolean isSub=true;
+		char i ='d';
 	public static void main(String[] args) {
 		SpringApplication.run(TestingApplication.class, args);
 	}
