@@ -13,6 +13,7 @@ public class TestingApplication {
 		int y=200;
 		double z=10.3;
 		float m=10.3f;
+		boolean isSub=true;
 	public static void main(String[] args) {
 		SpringApplication.run(TestingApplication.class, args);
 	}
